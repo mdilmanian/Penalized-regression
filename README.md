@@ -10,4 +10,4 @@ The data simulation, algorithm implementation and testing of parameters were han
 
 Reference:
 
-- Friedman, J., Hastie, T., Höfling, H., & Tibshirani, R. (2007). Pathwise coordinate optimization. _The annals of applied statistics_, 1(2), 302-332.
+- Friedman, J., Hastie, T., Höfling, H., & Tibshirani, R. (2007). Pathwise coordinate optimization. _The Annals of Applied Statistics_, 1(2), 302-332.
